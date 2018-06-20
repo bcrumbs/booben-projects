@@ -2,7 +2,7 @@
   "version": 1,
   "name": "demo",
   "author": "braincrumbs.io",
-  "componentLibs": ["reactackle@^1.1.1"],
+  "componentLibs": ["reactackle-meta@^1.1.5"],
   "enableHTML": true,
   "graphQLEndpointURL":
     "https://api.graph.cool/simple/v1/cjbp7s0dr1nk401531r08mjap",

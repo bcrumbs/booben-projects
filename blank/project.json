@@ -2,7 +2,7 @@
   "version": 1,
   "name": "blank",
   "author": "braincrumbs.io",
-  "componentLibs": ["reactackle-meta@^1.1.5"],
+  "componentLibs": ["reactackle-meta@^1.1.7"],
   "enableHTML": true,
   "graphQLEndpointURL": null,
   "auth": null,
